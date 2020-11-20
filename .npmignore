@@ -1,0 +1,5 @@
+.*
+node_modules/
+vue.config.js
+src/
+yarn.lock
