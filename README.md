@@ -1,3 +1,7 @@
+# USE
+
+npm install 'lzl-vue-clamp'
+
 # API
 
 ## props
